@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Wasteland Genesis",
+    "description": "Fallout 4 overhaul",
+    "author": "Firebird Gaming",
+    "maintainers": [
+      "github/<ForebirdGaming"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "testing",
+      "#fallout4"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/FirebirdGaming/Images/blob/main/Wasteland%20Genesis.jpg",
+      "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/tgBPcsZfyw"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "A95ouJpi7jM=",
+      "Size": 425506559,
+      "NumberOfArchives": 1447,
+      "SizeOfArchives": 124189038456,
+      "NumberOfInstalledFiles": 66628,
+      "SizeOfInstalledFiles": 183260866349
+    },
+    "version": "1.2"
+  }
+]
+
