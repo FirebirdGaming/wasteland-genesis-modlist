@@ -5,12 +5,12 @@
     "description": "Fallout 4 overhaul",
     "author": "Firebird Gaming",
     "maintainers": [
-      "github/<FirebirdGaming"
+      "github/FirebirdGaming"
     ],
     "game": "fallout4",
     "tags": [
       "testing",
-      "#fallout4"
+      "steam"
     ],
     "nsfw": true,
     "image_contains_title": false,
