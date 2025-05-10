@@ -2,7 +2,9 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Wasteland Genesis",
-    "description": "Fallout 4 overhaul",
+    "description": "Wasteland Genesis – A Complete Fallout 4 Overhaul
+
+Rediscover Fallout 4 with Wasteland Genesis, a transformative modlist enhancing every aspect of the game. Experience immersive atmospheres with overhauled lighting, weather, and visuals. Characters and NPCs are reimagined with improved models and behavior. Explore new quests, wield an expanded arsenal of weapons and armor, and customize your style with unique outfits. Enjoy a refined UI, smoother performance, and NSFW content that, while present, remains fairly discreet. This isn’t just a modlist—it’s a rebirth of the Commonwealth.",
     "author": "Firebird Gaming",
     "maintainers": [
       "github/FirebirdGaming"
@@ -16,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis.jpg",
+      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland_Genesis.jpg",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "wasteland-genesis",
