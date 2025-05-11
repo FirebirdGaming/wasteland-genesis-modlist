@@ -18,7 +18,7 @@ Rediscover Fallout 4 with Wasteland Genesis, a transformative modlist enhancing 
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland_Genesis.jpg",
+      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland_Genesis_pic.jpg",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "wasteland-genesis",
