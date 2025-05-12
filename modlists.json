@@ -11,7 +11,7 @@
     "tags": [
       "steam"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
