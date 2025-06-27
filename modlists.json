@@ -16,22 +16,22 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland_Genesis_pic.jpg",
+      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%202.0.JPG",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_1296f37a-d8f5-40db-b3e9-189e4f20224e",
+      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_c88cf187-af5c-405c-a62a-b5af1bf59e26",
       "machineURL": "wasteland-genesis",
       "discordURL": "https://discord.gg/tgBPcsZfyw"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "7h+p1jRbuyU=",
-      "Size": 425827123,
-      "NumberOfArchives": 1489,
-      "SizeOfArchives": 134947690320,
-      "NumberOfInstalledFiles": 67972,
-      "SizeOfInstalledFiles": 196685948707
+      "Hash": "WytTbVl2HNA=",
+      "Size": 423906128,
+      "NumberOfArchives": 1538,
+      "SizeOfArchives": 144149825317,
+      "NumberOfInstalledFiles": 71419,
+      "SizeOfInstalledFiles": 209480650654
     },
-    "version": "1.5.1"
+    "version": "2.0"
   }
 ]
 
