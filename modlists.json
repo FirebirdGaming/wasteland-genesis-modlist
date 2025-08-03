@@ -9,7 +9,7 @@
     ],
     "game": "fallout4",
     "tags": [
-      "steam"
+      "steam,total overhaul"
     ],
     "nsfw": true,
     "image_contains_title": false,
@@ -18,20 +18,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%202.0.JPG",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_c3b4114b-1d08-4690-8aae-597bcb5fcf9c",
+      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_d84b562e-34dc-494d-bc23-156a20307968",
       "machineURL": "wasteland-genesis",
       "discordURL": "https://discord.gg/tgBPcsZfyw"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "cSi/y3LX2II=",
-      "Size": 424166627,
-      "NumberOfArchives": 1565,
-      "SizeOfArchives": 150469001841,
-      "NumberOfInstalledFiles": 74807,
-      "SizeOfInstalledFiles": 219250046288
+      "Hash": "O+Bwr82GqPo=",
+      "Size": 396011941,
+      "NumberOfArchives": 1628,
+      "SizeOfArchives": 160723650037,
+      "NumberOfInstalledFiles": 79381,
+      "SizeOfInstalledFiles": 232707089136
     },
-    "version": "2.4"
+    "version": "2.5"
   }
 ]
 
