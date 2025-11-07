@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Wasteland Genesis",
-    "description": "Wasteland Genesis is a Next-Gen Fallout 4 overhaul built for performance, immersion, and challenge. With over 600 carefully selected mods, this list delivers stunning visuals, smarter enemies, new quests, expanded gear, and a fully modernized UI—all with a focus on smooth, stable gameplay. Whether you're here for survival, exploration, or chaos, Wasteland Genesis transforms Fallout 4 into a brutal and beautiful new experience.",
+    "description": "Wasteland Genesis is a Next-Gen Fallout 4 (game version 1.10.984) overhaul built for performance, immersion, and challenge. With over 600 carefully selected mods, this list delivers stunning visuals, smarter enemies, new quests, expanded gear, and a fully modernized UI—all with a focus on smooth, stable gameplay. Whether you're here for survival, exploration, or chaos, Wasteland Genesis transforms Fallout 4 into a brutal and beautiful new experience.",
     "author": "Firebird Gaming",
     "maintainers": [
       "github/FirebirdGaming"
@@ -20,20 +20,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%202.0.JPG",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_0d94cca1-99db-4fec-9eb3-bde29a30dcd3",
+      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_cf397699-135b-472b-9d11-3132b8178549",
       "machineURL": "wasteland-genesis",
       "discordURL": "https://discord.gg/tgBPcsZfyw"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "jtLx0/9r7zs=",
-      "Size": 396394793,
-      "NumberOfArchives": 1655,
-      "SizeOfArchives": 178743102712,
-      "NumberOfInstalledFiles": 87577,
-      "SizeOfInstalledFiles": 256983698965
+      "Hash": "vuxsR1mXdog=",
+      "Size": 461090297,
+      "NumberOfArchives": 1659,
+      "SizeOfArchives": 188204635407,
+      "NumberOfInstalledFiles": 88049,
+      "SizeOfInstalledFiles": 266106442034
     },
-    "version": "3.0"
+    "version": "3.1"
   }
 ]
 
