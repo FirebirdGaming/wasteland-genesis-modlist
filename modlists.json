@@ -34,6 +34,42 @@
       "SizeOfInstalledFiles": 266107441530
     },
     "version": "3.1.3"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Wasteland Genesis AE",
+    "description": "Wasteland Genesis AE is the Anniversary Edition version of my original Wasteland Genesis modlist. Same vision, same ambition — a fully rebuilt Fallout 4 experience featuring stunning visuals, overhauled gameplay, hundreds of new NPCs, enemies, locations, weapons and armour. If you're running the latest version of the game, this is the list for you. It's Wasteland Genesis, just built for Anniversary Edition.",
+    "author": "Firebird Gaming",
+    "maintainers": [
+      "github/FirebirdGaming"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Anniversary Edition",
+      "Steam",
+      "Total Overhaul"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%20AE%20Thumbnail.jpg",
+      "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis-AE-Read-Me",
+      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis%20AE.wabbajack_01e5857b-2569-4ede-b415-84509f7602da",
+      "machineURL": "WastelandGenesisAE",
+      "discordURL": "https://discord.gg/tgBPcsZfyw"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "mLWe+QehVwk=",
+      "Size": 522187436,
+      "NumberOfArchives": 1684,
+      "SizeOfArchives": 185663901814,
+      "NumberOfInstalledFiles": 84288,
+      "SizeOfInstalledFiles": 264031070397,
+      "TotalSize": 449694972211
+    },
+    "version": "1.0.0"
   }
 ]
-
