@@ -63,24 +63,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%20AE%20Thumbnail.jpg",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis-AE-Read-Me",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis%20AE.wabbajack_be13f9fc-b2b7-41c0-bafb-61634acd75c4",
+      "download": "https://authored-files.wabbajack.org/Wasteland Genesis AE.wabbajack_a3b5dd27-a628-4c84-bbc3-7a35f0a34560",
       "machineURL": "wastelandgenesisae",
       "discordURL": "https://discord.gg/tgBPcsZfyw",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "7ueHq0dU9xg=",
-      "Size": 505975098,
+      "Hash": "lIRdKugPkEA=",
+      "Size": 1221526281,
       "NumberOfArchives": 1686,
-      "SizeOfArchives": 186035663927,
-      "NumberOfInstalledFiles": 84485,
-      "SizeOfInstalledFiles": 264784618358,
-      "TotalSize": 450820282285
+      "SizeOfArchives": 186035663673,
+      "NumberOfInstalledFiles": 84488,
+      "SizeOfInstalledFiles": 264794961669,
+      "TotalSize": 450830625342
     },
     "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-25T06:58:02.5250067Z",
+    "dateUpdated": "2026-05-25T18:10:39.6169031Z",
     "repositoryName": ""
   }
 ]
