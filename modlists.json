@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "NG Wasteland Genesis",
     "description": "Wasteland Genesis is a Next-Gen Fallout 4 (game version 1.10.984) overhaul built for performance, immersion, and challenge. With over 600 carefully selected mods, this list delivers stunning visuals, smarter enemies, new quests, expanded gear, and a fully modernized UI\u2014all with a focus on smooth, stable gameplay. Whether you\u0027re here for survival, exploration, or chaos, Wasteland Genesis transforms Fallout 4 into a brutal and beautiful new experience.",
     "author": "Firebird Gaming",
@@ -43,7 +42,6 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Wasteland Genesis AE",
     "description": "Wasteland Genesis AE is the Anniversary Edition version of my original Wasteland Genesis modlist. Same vision, same ambition \u2014 a fully rebuilt Fallout 4 experience featuring stunning visuals, overhauled gameplay, hundreds of new NPCs, enemies, locations, weapons and armour. If you\u0027re running the latest version of the game, this is the list for you. It\u0027s Wasteland Genesis, just built for Anniversary Edition.",
     "author": "Firebird Gaming",
