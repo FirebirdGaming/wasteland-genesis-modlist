@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%202.0.JPG",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20Genesis.wabbajack_36de653d-a5b5-4a63-9cf5-65d927800a2a",
+      "download": "https://authored-files.wabbajack.org/Wasteland Genesis.wabbajack_59bf91a9-192d-4bb8-b6ac-999bfb47db2b",
       "machineURL": "wasteland-genesis",
       "discordURL": "https://discord.gg/tgBPcsZfyw",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "BFfV1o9sqFs=",
-      "Size": 463055691,
-      "NumberOfArchives": 1653,
-      "SizeOfArchives": 189332826826,
-      "NumberOfInstalledFiles": 139026,
-      "SizeOfInstalledFiles": 267624526956,
-      "TotalSize": 456957353782
+      "Hash": "KAeZDeeTx9Y=",
+      "Size": 460638022,
+      "NumberOfArchives": 1652,
+      "SizeOfArchives": 188512325074,
+      "NumberOfInstalledFiles": 87740,
+      "SizeOfInstalledFiles": 266399586225,
+      "TotalSize": 454911911299
     },
-    "version": "3.2",
+    "version": "3.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-06T20:16:18.5444312Z",
+    "dateUpdated": "2026-06-14T05:24:58.5079708Z",
     "repositoryName": ""
   },
   {
