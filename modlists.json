@@ -59,7 +59,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wasteland%20Genesis%20AE%20Thumbnail.jpg",
       "readme": "https://github.com/FirebirdGaming/Wasteland-Genesis-AE-Read-Me",
