@@ -70,13 +70,13 @@
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "4gxVONZWNEg=",
-      "Size": 987149122,
-      "NumberOfArchives": 911,
-      "SizeOfArchives": 180937267569,
-      "NumberOfInstalledFiles": 84508,
-      "SizeOfInstalledFiles": 259313643730,
-      "TotalSize": 440250911299
+      "Hash": "l5YP0YO4PhQ=",
+      "Size": 987815139,
+      "NumberOfArchives": 913,
+      "SizeOfArchives": 180937606120,
+      "NumberOfInstalledFiles": 84512,
+      "SizeOfInstalledFiles": 259313581528,
+      "TotalSize": 440251187648
     },
     "version": "2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
