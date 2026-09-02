@@ -99,11 +99,11 @@
     ],
     "nsfw": true,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Skadis%20Veil%20Image.png",
       "readme": "",
       "download": "",
       "machineURL": "skadis-veil",
