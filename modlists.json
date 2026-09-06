@@ -83,46 +83,4 @@
     "dateUpdated": "2026-08-12T11:52:42.6666312Z",
     "repositoryName": ""
   },
-  {
-    "title": "Skadi's Veil",
-    "description": "Skyrim Anniversary Edition Modlist",
-    "author": "Firebird Gaming",
-    "maintainers": [
-      "github/FirebirdGaming"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Skyrim",
-      "Anniversary Edition",
-      "Total Overhaul"
-    ],
-    "nsfw": true,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Skadis%20Veil%20Image.png",
-      "readme": "",
-      "download": "",
-      "machineURL": "skadis-veil",
-      "discordURL": "https://discord.gg/tgBPcsZfyw",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "",
-      "Size": 0,
-      "NumberOfArchives": 0,
-      "SizeOfArchives": 0,
-      "NumberOfInstalledFiles": 0,
-      "SizeOfInstalledFiles": 0,
-      "TotalSize": 0
-    },
-    "version": "1.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-12T11:52:42.6666312Z",
-    "repositoryName": ""
-  }
 ]
