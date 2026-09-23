@@ -82,47 +82,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-09-13T13:07:42.6601596Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Skadi's Veil",
-    "description": "Skadi's Veil is a visually stunning, heavily curated Skyrim overhaul built for immersion.",
-    "author": "Firebird Gaming",
-    "maintainers": [
-      "github/FirebirdGaming"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Anniversary Edition",
-      "Steam",
-      "Total Overhaul"
-    ],
-    "nsfw": true,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Skadis%20Veil%20Image.png",
-      "readme": "https://github.com/FirebirdGaming/Skadis-Veil-Read-Me",
-      "download": "https://authored-files.wabbajack.org/Skadi\u0027s Veil.wabbajack_7aea5801-0b12-43d5-bf67-6cd9b4bd66ce",
-      "machineURL": "skadis-veil",
-      "discordURL": "https://discord.gg/tgBPcsZfyw",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "4cs2x+z3Wpk=",
-      "Size": 1776698306,
-      "NumberOfArchives": 1614,
-      "SizeOfArchives": 226887352322,
-      "NumberOfInstalledFiles": 401422,
-      "SizeOfInstalledFiles": 375074661838,
-      "TotalSize": 601962014160
-    },
-    "version": "1.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-21T19:48:45.0215719Z",
-    "repositoryName": ""
   }
-]
+  ]
