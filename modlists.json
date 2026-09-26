@@ -105,24 +105,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/FirebirdGaming/Images/main/Skadis%20Veil%20Image.png",
       "readme": "https://github.com/FirebirdGaming/Skadis-Veil-Read-Me",
-      "download": "https://authored-files.wabbajack.org/Skadi\u0027s Veil.wabbajack_70cadf27-fc55-4ddb-8197-388bac5c5c36",
+      "download": "https://authored-files.wabbajack.org/Skadi\u0027s Veil.wabbajack_ea45c12f-ba26-4e53-9174-d80ecfb0c5c8",
       "machineURL": "skadis-veil",
       "discordURL": "https://discord.gg/tgBPcsZfyw",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "NQ+d4LD/HuU=",
-      "Size": 1776309657,
-      "NumberOfArchives": 1612,
-      "SizeOfArchives": 225306163868,
-      "NumberOfInstalledFiles": 401362,
-      "SizeOfInstalledFiles": 375085906432,
-      "TotalSize": 600392070300
+      "Hash": "3dakIjIIfy0=",
+      "Size": 1776300231,
+      "NumberOfArchives": 1611,
+      "SizeOfArchives": 224978243902,
+      "NumberOfInstalledFiles": 401078,
+      "SizeOfInstalledFiles": 374757386852,
+      "TotalSize": 599735630754
     },
     "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-24T21:24:11.0305823Z",
+    "dateUpdated": "2026-09-26T10:36:13.0158435Z",
     "repositoryName": ""
   }
 ]
